@@ -1,0 +1,2 @@
+# galactica.games
+Public site
